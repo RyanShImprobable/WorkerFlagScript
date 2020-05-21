@@ -1,0 +1,13 @@
+Nostos-West/PC,nostos_testing,nostos_sa_testing,nostos_kol
+Scavengers,blackcomb,breckenridge
+Nightingale,imp_nwx,imp_nwx_dev
+Stavka,alpaca
+AAA Project,aaa_fps,aaa_gdk_fps,aaa_survival,mobile
+Crest,gaia,mammoth,crest
+Seed,seed
+Corvus,corvus,corvus_live
+Kingshunt,beta_queen_video_375
+Fractured,fractured
+GodKing,projectgodking
+Lazarus,spiltmilk
+Decentraland,decentraland,bigtime
