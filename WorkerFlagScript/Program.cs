@@ -12,16 +12,6 @@ namespace WorkerFlagScript
         private static readonly DeploymentServiceClient DeploymentServiceClient = DeploymentServiceClient.Create();
         static void Main(string[] args)
         {
-
-            //string customer_name = "Nostos";         
-            //string[] projects = { "beta_sad_connecticut_304" };
-
-            Dictionary<string, List<string>> customer_projects = new Dictionary<string, List<string>>()
-            {
-               // { "Ryan", new List<string> { "beta_sad_connecticut_304" } },
-                { "NetEase", new List<string> {"nostos_sa_testing", "nostos_testing", "nostos_kol", } },
-
-            };
             Console.WriteLine("GO and check!");
             Dictionary<string, string[]> resultMap = readCustomerProjectInfo();
             
